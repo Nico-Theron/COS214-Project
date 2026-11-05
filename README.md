@@ -117,8 +117,6 @@ make coverage
 
 This project was developed collaboratively by five University of Pretoria students. The team later continued working together on the Tyto PhishShield capstone project.
 
-> Team photos below use paths within this repository. Upload the corresponding images to `docs/assets/team/` to display them.
-
 <div align="center">
 <table>
 <tr>
